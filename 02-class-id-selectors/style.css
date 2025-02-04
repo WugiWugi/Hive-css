@@ -1,0 +1,17 @@
+.nechet{
+    background-color: rgb(230, 171, 171);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 36px;
+}
+
+#number4{
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(116, 238, 152);
+    font-size: 24px;
+}
